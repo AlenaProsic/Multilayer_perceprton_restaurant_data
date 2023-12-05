@@ -46,7 +46,7 @@ A module featureExtraction holding a class featureExtractor to extract features 
 Features we extract: 
 - Bag-of-Words;
 - Word length;
-- Dish length 
+- Dish length;
 - Menu length;
 - Stop words;
 - Bigrams.
